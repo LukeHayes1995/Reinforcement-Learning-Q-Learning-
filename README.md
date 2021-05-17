@@ -12,6 +12,7 @@ d) The episode ends if the agent falls into a hole or reaches the goal state.
 
 e) The actions are “up”, “down”, “left” and “right”.
 
+
 Part 2: Implement the Reinforcement Learning algorithm Q-learning
 
 a) Using the algorithmic steps outlined in the notes (Week 9 – Model Free Learning (Temporal
